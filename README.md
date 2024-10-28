@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 💞️ I’m looking to collaborate on any Data science projects
 - 📫 How to reach me: Connect on Linkedin
-- 😄 Pronouns: Her/She
+- 😄 Pronouns: She/Her
 - ⚡ Fun fact: The first programmer (Ada Lovelace) was the daughter of a mad poet
 
 <!---
